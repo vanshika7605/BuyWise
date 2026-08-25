@@ -1,0 +1,17 @@
+[
+  {
+    "component": "buywise",
+    "componentPrimaryName": "BuyWise",
+    "templateID": 804401,
+    "entities": [],
+    "query": "gaming laptop under ₹1 lakh",
+    "componentEnabled": true,
+    "keyword": ["gaming laptop"],
+    "queryTerm": "gaming laptop under ₹1 lakh",
+    "disambiguationType": 1,
+    "time": "2026-08-24T10:51:29.496Z",
+    "quickView": 3,
+    "queryRegex": "gaming laptop under .*",
+    "componentType": "internal"
+  }
+]
